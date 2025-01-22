@@ -78,7 +78,7 @@ Foro Hub es una API REST desarrollada en Java utilizando Spring Boot. Esta API p
    ```
 
 ## Endpoints principales
-
+### IMPORANTE: PRIMERO LLENAR CURSOS Y USUARIOS PARA PODER PONER SU ID EN LOS TOPICOS
 ### Autenticación
 
 - **POST /login**
